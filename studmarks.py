@@ -21,5 +21,7 @@ elif(avg>=50):
   print('D grade')
 elif(avg>=40):
   print('pass')
+elif(avg<=35):
+  print('fail')
 else:
  print('fail')
